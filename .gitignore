@@ -1,3 +1,4 @@
 *.log
 *.sh
 temp/
+temp_test/
